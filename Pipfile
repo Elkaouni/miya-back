@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+torch = "*"
+whisper = "*"
+numpy = "*"
+gpt4free = "*"
 
 [dev-packages]
 
